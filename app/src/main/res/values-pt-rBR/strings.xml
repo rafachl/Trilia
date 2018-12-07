@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffTrail</string>
+    <string name="msg_splash">Carregando ...</string>
+    <string name="btn_entrar_login">Entrar</string>
+    <string name="btn_sair_login">Sair</string>
+    <string name="edt_login">Informe seu login</string>
+    <string name="edt_senha">Informe sua senha</string>
+    <string name="nome_trilheiro">Nome do trilheiro</string>
+    <string name="idade_trilheiro">Idade do trilheiro</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="txSobre">Aula de Desenvolvimento Android da pós da Unoes de São Miguel do Oeste - SC - Acadêmicos Eduardo e Venicius</string>
+    <string name="tx_sobre1">Aula de Desenvolvimento Android</string>
+    <string name="tx_sobre2">Pós de Desenvolvimento WEB Mobile e Nuvem</string>
+    <string name="tx_sobre3">UNOESC de São Miguel do Oeste - SC</string>
+    <string name="tx_sobre4">Projeto - Cadastro de trilheiros</string>
+    <string name="tx_sobre5">Professor: Roberson Junior Fernandes Alves</string>
+    <string name="tx_sobre6">Acadêmicos:</string>
+    <string name="tx_sobre7">Eduardo Antônio Uliana</string>
+    <string name="tx_sobre8">Venicíus Mateus Malage Back</string>
+    <string name="tx_cor">Selecione a cor de fundo:</string>
+    <string name="swt_Moto">Usar internet </string>
+    <string name="btn_tx_aplicar">Aplicar</string>
+</resources>
